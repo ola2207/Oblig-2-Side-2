@@ -125,27 +125,27 @@ padding: 5px;
 }
 
 #nav1:hover{
-    background-image: url(../pictures/nav1.png);
+    background-image: url(pictures/nav1.png);
 }
 
 #nav2:hover{
-    background-image: url(../pictures/nav2.png);
+    background-image: url(pictures/nav2.png);
 }
 
 #nav3:hover{
-    background-image: url(../pictures/nav3.png);
+    background-image: url(pictures/nav3.png);
 }
 
 #nav4:hover{
-    background-image: url(../pictures/nav4.png);
+    background-image: url(pictures/nav4.png);
 }
 
 #nav5:hover{
-    background-image: url(../pictures/nav5.png);
+    background-image: url(pictures/nav5.png);
 }
 
 #nav6:hover{
-    background-image: url(../pictures/nav6.png);
+    background-image: url(pictures/nav6.png);
 } 
     
 }
